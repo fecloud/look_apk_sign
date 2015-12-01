@@ -45,7 +45,7 @@ public class CatApkSign {
 			System.err.println("错误!");
 		}
 		final Scanner scanner = new Scanner(System.in);
-		System.out.println("按任意键继续...");
+		System.out.println("按回车键退出!!!");
 		scanner.nextLine();
 	}
 
