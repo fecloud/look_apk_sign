@@ -1,1 +1,1 @@
-# look_apk_sign
+# 取apk签名工具
